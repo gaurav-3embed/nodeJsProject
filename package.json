@@ -1,0 +1,34 @@
+{
+"name": "nodejsproject",
+"version": "1.0.0",
+"description": "Send Email Functionality",
+"engines": {
+"node": "6.10.2"
+},
+"main": "index.js",
+ "scripts": {
+"start": "node index.js"
+},
+"dependencies": {
+"pg": "6.x",
+"ejs": "2.5.6",
+"express": "4.15.2",
+"cool-ascii-faces": "1.3.4",
+"nodemailer":"4.0.1"    
+},
+"repository": {
+"type": "git",
+"url": "git+https://github.com/gaurav-3embed/nodeJsProject.git"
+},
+"keywords": [
+"node",
+"heroku",
+"express"
+],
+"author": "Gaurav Prakash and Upendra Manike",
+"license": "MIT",
+"bugs": {
+"url": "https://github.com/gaurav-3embed/nodeJsProject/issues"
+},
+"homepage": "https://github.com/gaurav-3embed/nodeJsProject#readme"
+}
